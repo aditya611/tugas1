@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">dtschapter03</string>
+    <string name="judul_1">JUDUL 1</string>
+    <string name="judul_2">JUDUL 2</string>
+    <string name="judul_3">JUDUL 3</string>
+
+    <string name="deskripsi_1">calendar</string>
+    <string name="deskripsi_2">hero</string>
+    <string name="deskripsi_3">task</string>
+</resources>
